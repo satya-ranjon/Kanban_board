@@ -12,6 +12,7 @@ const Board = () => {
     localStorage.setItem("cards", JSON.stringify(cards));
   }, [cards]);
 
+  console.log(cards);
   return (
     <div className="flex h-full w-full gap-3 overflow-auto p-12">
       <Column
