@@ -1,6 +1,6 @@
 ## Demo
 
-https://kanban-board-todo.netlify.app/
+<https://kanban-board-todo.netlify.app/>
 
 ## Tech Stack
 
@@ -39,3 +39,21 @@ Start the server
 ## Authors
 
 - [@Satya Ranjon](https://www.github.com/satya-ranjon)
+
+## File Tree
+
+```md
+📦src
+┣ 📂components
+┃ ┣ 📜AddCard.jsx
+┃ ┣ 📜Board.jsx
+┃ ┣ 📜BurnBarrel.jsx
+┃ ┣ 📜Card.jsx
+┃ ┣ 📜Column.jsx
+┃ ┣ 📜CustomKanban.jsx
+┃ ┗ 📜DropIndicator.jsx
+┣ 📜App.css
+┣ 📜App.jsx
+┣ 📜index.css
+┗ 📜main.jsx
+```
