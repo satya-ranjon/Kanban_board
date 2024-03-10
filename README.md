@@ -1,8 +1,41 @@
-# React + Vite
+## Demo
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+https://kanban-board-todo.netlify.app/
 
-Currently, two official plugins are available:
+## Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**Client:** React, Framer-motion, TailwindCSS
+
+## Screenshots
+
+![App Screenshot](https://i.ibb.co/fHDCPw1/Screenshot-10.png)
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/satya-ranjon/Kanban_board
+```
+
+Go to the project directory
+
+```bash
+  cd Kanban_board
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run dev
+```
+
+## Authors
+
+- [@Satya Ranjon](https://www.github.com/satya-ranjon)
