@@ -52,8 +52,6 @@ Start the server
 ┃ ┣ 📜Column.jsx
 ┃ ┣ 📜CustomKanban.jsx
 ┃ ┗ 📜DropIndicator.jsx
-┣ 📜App.css
-┣ 📜App.jsx
 ┣ 📜index.css
 ┗ 📜main.jsx
 ```
